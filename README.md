@@ -1,1 +1,2 @@
-# sql-assignment7
+# sql-assignment7  - 7-Functions
+This assignment involves creating a database to store information about countries and individuals, with details such as population, area, and date of birth. A user-defined function CalculateAge is implemented to compute the age of individuals based on their date of birth, accounting for whether their birthday has occurred this year. The query retrieves the age of all individuals in the database, providing a dynamic view of their current ages. Additionally, various queries are used to manipulate and display country data, such as extracting substrings, calculating name lengths, and converting country names to uppercase and lowercase formats
